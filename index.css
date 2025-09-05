@@ -15,7 +15,7 @@ background-size: cover;
 background-position:center;
 }
 .wrapper{
-     width: 420px;
+     width: 480px;
      background: transparent;
      border: 2px solid rgba(255, 255, 255, .2);
      backdrop-filter: blur(20px);
@@ -101,4 +101,5 @@ color:#fff
 }
 .register-link p a:hover{
 	text-decoration: underline;
+
 }
