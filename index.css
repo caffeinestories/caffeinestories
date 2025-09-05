@@ -16,7 +16,6 @@ background-position:center;
 }
 .wrapper{
      width: 480px;
-	height:800px;
      background: transparent;
      border: 2px solid rgba(255, 255, 255, .2);
      backdrop-filter: blur(20px);
@@ -104,5 +103,6 @@ color:#fff
 	text-decoration: underline;
 
 }
+
 
 
