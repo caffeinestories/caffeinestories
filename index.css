@@ -15,7 +15,8 @@ background-size: cover;
 background-position:center;
 }
 .wrapper{
-     width: 5600px;
+     width: 560px;
+height:500px;
      background: transparent;
      border: 2px solid rgba(255, 255, 255, .2);
      backdrop-filter: blur(20px);
