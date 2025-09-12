@@ -2,7 +2,37 @@
     padding: 0;
     margin: 0;
 }
-main{
-   width: 100%;
-   background: linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.5), url(my cafe 2 image.jpeg));
+ body{
+
+min-height: 100vh;
+display: flex;
+background-size: cover;
+background-position:center;
+ }
+.all{
+    position: relative;
+    width: 100vw;
+    height: vh;
+align-items: center;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 3px 15px 3px 15px;
+}
+ul li a{
+    text-decoration: none;
+        color: #333;
+        font-size: 1.1rem;
+        
+}
+ul li a:hover{
+ box-shadow: 0 3px 6px rgba(0,0,0,0.26),
+    0 3px 6px rgba(0,0,0,0.23);
+transition: .2s;
 }
